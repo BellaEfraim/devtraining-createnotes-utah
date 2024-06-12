@@ -10,23 +10,23 @@
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="1">43295ae1094232007f44e1046c8ff615</sp_column>
-        <sp_widget display_value="Notes List">53a138a0473a8e103ed395e1736d43b2</sp_widget>
+        <sp_column display_value="2">cf295ae1094232007f44e1046c8ff616</sp_column>
+        <sp_widget display_value="Notes Body">073270ec47f68e103ed395e1736d4358</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-06-11 14:21:59</sys_created_on>
-        <sys_id>8b633024473a8e103ed395e1736d439b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_created_on>2024-06-12 14:36:29</sys_created_on>
+        <sys_id>69500e3447b202503ed395e1736d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
-        <sys_update_name>sp_instance_8b633024473a8e103ed395e1736d439b</sys_update_name>
+        <sys_update_name>sp_instance_69500e3447b202503ed395e1736d439a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-12 14:36:34</sys_updated_on>
+        <sys_updated_on>2024-06-12 14:36:29</sys_updated_on>
         <title/>
         <url/>
         <widget_parameters/>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=8b633024473a8e103ed395e1736d439b"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=69500e3447b202503ed395e1736d439a"/>
 </record_update>
